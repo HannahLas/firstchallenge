@@ -9,9 +9,6 @@ Click on the links in the navigation bar to be directed to the relevant section 
 
 [linktoscreenshot](assets/images/screenshotnavbar.png)
 
-https://github.com/HannahLas/firstchallenge/blob/ec5f2f54192af84e797785569c2d7862e7a60f24/assets/images/screenshotnavbar.png 
-
-
 Here is a link to the final webpage: https://hannahlas.github.io/firstchallenge/
 
 
