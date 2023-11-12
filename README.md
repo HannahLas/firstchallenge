@@ -6,9 +6,9 @@ I completed this task for the first challenge in my Skills Boot Camp in Front-En
 
 ## Usage
 Click on the links in the navigation bar to be directed to the relevant section of the website. See the screenshot below to see the navigation bar: 
-
+```md
 ![linktoscreenshot](assets/images/screenshotnavbar.png)
-
+```
 https://github.com/HannahLas/firstchallenge/blob/ec5f2f54192af84e797785569c2d7862e7a60f24/assets/images/screenshotnavbar.png 
 
 
