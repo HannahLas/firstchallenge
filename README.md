@@ -7,7 +7,7 @@ I completed this task for the first challenge in my Skills Boot Camp in Front-En
 ## Usage
 Click on the links in the navigation bar to be directed to the relevant section of the website. See the screenshot below to see the navigation bar. 
   ```md
-![Link to screenshot](assets/images/Screenshot 2023-11-11 124356.png)
+(assets/images/Screenshot 2023-11-11 124356.png)
    ```
 Here is a link to the final webpage: https://hannahlas.github.io/firstchallenge/
 
